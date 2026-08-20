@@ -1,0 +1,4 @@
+requests
+pyperclip
+gTTS
+playsound==1.2.2
