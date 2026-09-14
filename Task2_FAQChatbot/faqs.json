@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What are the college timings?",
+    "answer": "The college operates from 9:00 AM to 4:00 PM, Monday to Saturday."
+  },
+  {
+    "question": "How can I check my attendance?",
+    "answer": "You can check your attendance on the student portal under the 'Attendance' tab, updated weekly by faculty."
+  },
+  {
+    "question": "What is the minimum attendance required?",
+    "answer": "Students must maintain a minimum of 75% attendance to be eligible for semester exams."
+  },
+  {
+    "question": "How do I apply for a bonafide certificate?",
+    "answer": "Submit a request through the student portal or the administration office; certificates are issued within 3 working days."
+  },
+  {
+    "question": "When will the semester exam results be announced?",
+    "answer": "Results are usually announced within 30 days after the last exam and published on the college website."
+  },
+  {
+    "question": "How can I contact my class coordinator?",
+    "answer": "Class coordinator contact details are listed on the notice board and in the student handbook on the portal."
+  },
+  {
+    "question": "What is the fee payment deadline?",
+    "answer": "Semester fees must be paid before the 10th of the starting month to avoid a late fee penalty."
+  },
+  {
+    "question": "How do I reset my student portal password?",
+    "answer": "Click 'Forgot Password' on the login page and follow the OTP verification sent to your registered email."
+  },
+  {
+    "question": "Are there hostel facilities available?",
+    "answer": "Yes, separate hostel facilities are available for boys and girls with mess and Wi-Fi included."
+  },
+  {
+    "question": "How do I apply for a scholarship?",
+    "answer": "Scholarship applications open at the start of each academic year; apply through the scholarship section on the portal with required documents."
+  },
+  {
+    "question": "What placement support does the college provide?",
+    "answer": "The Training and Placement Cell organizes mock interviews, resume workshops, and connects students with recruiting companies each semester."
+  },
+  {
+    "question": "How can I get a duplicate ID card?",
+    "answer": "Report the loss to the administration office and submit a duplicate ID request form along with a small processing fee."
+  }
+]
