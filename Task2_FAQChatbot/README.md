@@ -69,9 +69,4 @@ python chatbot.py
   for smarter matching — worth mentioning in your project video/README
   as a possible future improvement.
 
-## For your submission
-- Push this folder to GitHub as your Task 2 repo.
-- Record a short video: show the UI, ask 3-4 questions, and briefly
-  explain the TF-IDF + cosine similarity approach in `chatbot.py`.
-- Link the GitHub repo in your LinkedIn post per the internship
-  instructions.
+
