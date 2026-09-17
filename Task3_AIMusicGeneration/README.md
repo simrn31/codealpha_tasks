@@ -84,9 +84,4 @@ FL Studio, MuseScore) to actually hear it.
 4. `music21` converts that token sequence back into real `Note`/`Chord`
    objects and writes a standard `.mid` file.
 
-## For your submission
-- Push this folder to GitHub alongside your other tasks.
-- For the video: show `preprocess.py`'s output (token/vocab counts),
-  briefly show the LSTM architecture (`model.summary()` output), then
-  play the generated `.mid` file so viewers can actually hear the
-  result — that's the most convincing part of this particular task.
+
